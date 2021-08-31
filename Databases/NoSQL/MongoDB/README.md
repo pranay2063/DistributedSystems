@@ -8,6 +8,7 @@ Sharding
 
 Indexing strategies 
 1. https://docs.mongodb.com/manual/applications/indexes/
+2. Indices should be added programmatically rather than manually - This will reduce chances of human mistakes 
 
 Query execution and performance
 1. Query plans used by query optimizer - https://docs.mongodb.com/v4.0/core/query-plans/
