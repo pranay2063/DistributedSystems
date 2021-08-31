@@ -1,1 +1,1 @@
-Inverted Index - Stores documents (id) corresponding to a searck key
+Inverted Index - Stores documents (id) corresponding to a search key
