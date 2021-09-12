@@ -1,5 +1,5 @@
 Concurrency and parallelism 
-- https://stackoverflow.com/questions/1897993/what-is-the-difference-between-concurrent-programming-and-parallel-programming
+- (https://stackoverflow.com/questions/1897993/what-is-the-difference-between-concurrent-programming-and-parallel-programming)
 
 Basics, algorithms and types of garbage collection - 
 1. https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
