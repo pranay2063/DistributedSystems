@@ -1,14 +1,14 @@
 Concurrency and parallelism 
-https://stackoverflow.com/questions/1897993/what-is-the-difference-between-concurrent-programming-and-parallel-programming
+- https://stackoverflow.com/questions/1897993/what-is-the-difference-between-concurrent-programming-and-parallel-programming
 
 Basics, algorithms and types of garbage collection - 
-https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
-https://en.wikipedia.org/wiki/Tracing_garbage_collection#Generational_GC_(ephemeral_GC)
-https://howtodoinjava.com/java/garbage-collection/revisiting-memory-management-and-garbage-collection-mechanisms-in-java/
-https://howtodoinjava.com/java/garbage-collection/all-garbage-collection-algorithms/
+1. https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)
+2. https://en.wikipedia.org/wiki/Tracing_garbage_collection#Generational_GC_(ephemeral_GC)
+3. https://howtodoinjava.com/java/garbage-collection/revisiting-memory-management-and-garbage-collection-mechanisms-in-java/
+4. https://howtodoinjava.com/java/garbage-collection/all-garbage-collection-algorithms/
 
 Java GC docs
-https://docs.oracle.com/javase/9/gctuning/toc.htm
+1. https://docs.oracle.com/javase/9/gctuning/toc.htm
 
 
 Default Garbage Collector in JVM currently - G1 (Garbage First)
