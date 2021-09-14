@@ -15,3 +15,4 @@ Query execution and performance
 2. Analyze query performance and execution stages - https://docs.mongodb.com/manual/tutorial/analyze-query-plan/
 3. Database profiling - https://docs.mongodb.com/manual/tutorial/manage-the-database-profiler/
 
+Mongo and BSON - https://www.mongodb.com/json-and-bson
