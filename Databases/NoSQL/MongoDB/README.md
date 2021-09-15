@@ -4,7 +4,7 @@ Replication
   2. Replica set - A cluster of MongoDB servers that implements replication and automated failover.
   
 Sharding 
-
+1.  Sharding happens at collection level 
 
 Indexing strategies 
 1. https://docs.mongodb.com/manual/applications/indexes/
