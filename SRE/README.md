@@ -8,9 +8,9 @@ Alerting (AlertManager / PagerDuty)
 
 Crucial part of monitoring - Dashboards (Grafana)
 
-Metric -
-  1. Counter
-  2. Gauge 
+Metric - https://prometheus.io/docs/concepts/metric_types/
+  1. Counter (monotonically increasing values)
+  2. Gauge (fluctuating values)
 
 Types of alerting
   1. SLO Based
