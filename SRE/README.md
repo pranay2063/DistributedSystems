@@ -1,6 +1,8 @@
 Google's SRE Book - https://sre.google/workbook/table-of-contents/
 
-SLI, SLO, SLA - https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos
+SLI, SLO, SLA - 
+  1. https://sre.google/sre-book/service-level-objectives/
+  2. https://sre.google/workbook/implementing-slos/
 
 Agent (Sysdig/Nagios)
 Montioring (Prometheus)
