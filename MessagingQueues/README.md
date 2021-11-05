@@ -1,5 +1,5 @@
 
-Normal AQMP based messaging queues - RabbitMQ
+Normal queue based messaging queues - RabbitMQ
  * [RabbitMQ for beginners](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
  * [Publisher](https://www.rabbitmq.com/publishers.html)
  * [Consumer](https://www.rabbitmq.com/consumers.html)
