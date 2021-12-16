@@ -1,1 +1,6 @@
 
+Thread Safety
+Thread local
+Locking (Concurrency control) 
+  1. Pessimistic locking 
+  2. Optimistic locking 
