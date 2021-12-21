@@ -5,6 +5,9 @@ Concurrency, Parallelism and Asynchrony
 
 Concurrency and multi-threading 
 - [Educative](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
+- Concurrency is achieved through multi-threading 
+- Multi-threading allows creation of multiple threads within a process, executing independently but concurrenctly sharing process resources
+- Threads can run in parallel if there are multiple CPU cores 
 
 Thread Safety
 Thread local
@@ -13,8 +16,16 @@ Locking (Concurrency control)
   2. Optimistic locking 
 
 Mutex and Semaphore 
+- [StackOverflow](https://stackoverflow.com/questions/771347/what-is-mutex-and-semaphore-in-java-what-is-the-main-difference)
 - Mutex is different from semaphore as it has ownership attached to it
 - A thread needs to acquire mutex before releasing it 
 - Mutex is not binary semaphore
 - Mutex is a locking mechanism and semaphore is a signalling mechanism 
 - Semaphore are of two types - binary and counting 
+
+Concurrency in Java 
+- Thread class and runnable interface (for multi-threading)
+- AtomicInteger
+- Synchronization using synchronized keyword
+- [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
+- Reentrant lock (One of the ways to implement mutex)
