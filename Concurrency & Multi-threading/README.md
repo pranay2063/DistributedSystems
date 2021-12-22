@@ -30,3 +30,6 @@ Concurrency in Java
 - Synchronization using synchronized keyword
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
 - Reentrant lock (One of the ways to implement mutex)
+- Articles
+  - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
+  - [Concurrency API: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
