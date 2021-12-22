@@ -27,6 +27,7 @@ Concurrency in Java
 - Thread class and runnable interface (for multi-threading)
 - AtomicInteger
 - Volatile keyword
+- Concurrent data structures (Eg: HashMap vs HashTable vs ConcurrentHashMap)
 - Synchronization using synchronized keyword
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
 - Reentrant lock (One of the ways to implement mutex)
