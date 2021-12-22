@@ -28,7 +28,7 @@ Concurrency in Java
 - AtomicInteger
 - Volatile keyword
 - Concurrent data structures (Eg: HashMap vs HashTable vs ConcurrentHashMap)
-- Synchronization using synchronized keyword
+- [Synchronization using synchronized keyword](https://www.geeksforgeeks.org/synchronization-in-java/)
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
 - Reentrant lock (One of the ways to implement mutex)
 - [Stop execution of a thread](https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/)
