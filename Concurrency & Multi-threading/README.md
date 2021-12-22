@@ -35,6 +35,7 @@ Concurrency in Java
 - Articles
   - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
   - [Concurrency API: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
+  - [Producer Consumer solution using Lock](https://javarevisited.blogspot.com/2015/06/java-lock-and-condition-example-producer-consumer.html#axzz7FdFkypML)
 
 [Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
 - Deadlock
