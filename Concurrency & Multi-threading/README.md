@@ -9,8 +9,8 @@ Concurrency and multi-threading
 - Multi-threading allows creation of multiple threads within a process, executing independently but concurrenctly sharing process resources
 - Threads can run in parallel if there are multiple CPU cores 
 
-Thread Safety
-Thread local
+Thread Safety, Thread local
+
 Locking (Concurrency control) 
   1. Pessimistic locking 
   2. Optimistic locking 
