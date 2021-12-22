@@ -35,3 +35,9 @@ Concurrency in Java
 - Articles
   - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
   - [Concurrency API: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
+
+[Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
+- Deadlock
+- Starvation
+- Livelock
+- Race condition
