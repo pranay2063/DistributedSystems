@@ -31,11 +31,16 @@ Concurrency in Java
 - [Synchronization using synchronized keyword](https://www.geeksforgeeks.org/synchronization-in-java/)
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
 - Reentrant lock (One of the ways to implement mutex)
+- [Object vs Condition](https://stackoverflow.com/questions/51063963/object-vs-condition-wait-vs-await)
 - [Stop execution of a thread](https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/)
 - Articles
   - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
   - [Concurrency API: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/)
   - [Producer Consumer solution using Lock](https://javarevisited.blogspot.com/2015/06/java-lock-and-condition-example-producer-consumer.html#axzz7FdFkypML)
+- Reentrance problem 
+  - [SO](https://stackoverflow.com/questions/2799023/what-exactly-is-a-reentrant-function)
+  - [Reentrancy](https://en.wikipedia.org/wiki/Reentrancy_(computing))
+
 
 [Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
 - Deadlock
