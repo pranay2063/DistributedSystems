@@ -40,6 +40,7 @@ Concurrency in Java
 - Reentrance problem 
   - [SO](https://stackoverflow.com/questions/2799023/what-exactly-is-a-reentrant-function)
   - [Reentrancy](https://en.wikipedia.org/wiki/Reentrancy_(computing))
+  - [Cases](https://stackoverflow.com/questions/13983753/under-what-conditions-can-a-thread-enter-a-lock-monitor-region-more-than-once)
 
 
 [Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
