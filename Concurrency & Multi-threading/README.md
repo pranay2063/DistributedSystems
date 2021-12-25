@@ -32,9 +32,9 @@ Concurrency in Java
   - BlockingQueue
 - [Synchronization using synchronized keyword](https://www.geeksforgeeks.org/synchronization-in-java/)
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
-- Reentrant lock (One of the ways to implement mutex)
-- [Object vs Condition](https://stackoverflow.com/questions/51063963/object-vs-condition-wait-vs-await)
+  - Reentrant lock (One of the ways to implement mutex)
 - [Condition](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Condition.html)
+  - [Object vs Condition](https://stackoverflow.com/questions/51063963/object-vs-condition-wait-vs-await)
 - [Stop execution of a thread](https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/)
 - Articles
   - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
@@ -44,7 +44,6 @@ Concurrency in Java
   - [SO](https://stackoverflow.com/questions/2799023/what-exactly-is-a-reentrant-function)
   - [Reentrancy](https://en.wikipedia.org/wiki/Reentrancy_(computing))
   - [Cases](https://stackoverflow.com/questions/13983753/under-what-conditions-can-a-thread-enter-a-lock-monitor-region-more-than-once)
-
 
 [Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
 - Deadlock
