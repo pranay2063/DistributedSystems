@@ -33,7 +33,11 @@ Concurrency in Java
 - [Synchronization using synchronized keyword](https://www.geeksforgeeks.org/synchronization-in-java/)
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
   - Reentrant lock (One of the ways to implement mutex)
-- [Semaphore](https://www.geeksforgeeks.org/semaphore-in-java/)
+    - Only one thread can lock a reentrant lock
+    - Same thread can acquire lock on a resource multile times   
+- [Semaphore]
+  - [SO](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Semaphore.html)   
+  - [Geeks](https://www.geeksforgeeks.org/semaphore-in-java/)
 - [Condition](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Condition.html)
   - [Object vs Condition](https://stackoverflow.com/questions/51063963/object-vs-condition-wait-vs-await)
 - [Stop execution of a thread](https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/)
