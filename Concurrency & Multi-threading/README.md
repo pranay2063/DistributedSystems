@@ -35,7 +35,7 @@ Concurrency in Java
   - Reentrant lock (One of the ways to implement mutex)
     - Only one thread can lock a reentrant lock
     - Same thread can acquire lock on a resource multile times   
-- [Semaphore]
+- Semaphore
   - [SO](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Semaphore.html)   
   - [Geeks](https://www.geeksforgeeks.org/semaphore-in-java/)
 - [Condition](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Condition.html)
