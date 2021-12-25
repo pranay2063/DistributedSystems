@@ -57,7 +57,8 @@ Concurrency in Java
 - Race condition
 
 Leetcode issue analysis
-- [Busy looping (avoiding loops in concurrency problems)](https://leetcode.com/problems/print-foobar-alternately/discuss/1170524/Java-Sync-lock-resource)
+- [Busy looping (why to avoid loops in concurrency problems)](https://leetcode.com/problems/print-foobar-alternately/discuss/1170524/Java-Sync-lock-resource)
+  - [Busy waiting vs Sleep waiting](https://www.baeldung.com/cs/os-busy-waiting)
 - [Locking solution](https://leetcode.com/problems/print-foobar-alternately/discuss/1600113/Java-ReentrantLock-%2B-Condition-%2B-Volatile)
 - [IllegalMonitorStateException](https://stackoverflow.com/questions/7126550/java-wait-and-notify-illegalmonitorstateexception)
 - [Synchronization on large number of threads](https://leetcode.com/problems/building-h2o/)
