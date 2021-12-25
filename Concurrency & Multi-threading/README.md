@@ -34,6 +34,7 @@ Concurrency in Java
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
 - Reentrant lock (One of the ways to implement mutex)
 - [Object vs Condition](https://stackoverflow.com/questions/51063963/object-vs-condition-wait-vs-await)
+- [Condition](https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Condition.html)
 - [Stop execution of a thread](https://www.geeksforgeeks.org/java-concurrency-yield-sleep-and-join-methods/)
 - Articles
   - [Locks and Synchronization by MIT](https://web.mit.edu/6.005/www/fa15/classes/23-locks/) 
