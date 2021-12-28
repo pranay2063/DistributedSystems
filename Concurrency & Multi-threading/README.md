@@ -28,7 +28,7 @@ Concurrency in Java
 - AtomicInteger
 - [Volatile keyword](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
 - Concurrent data structures 
-  - HashMap vs HashTable vs ConcurrentHashMap
+  - [HashMap vs HashTable vs ConcurrentHashMap](https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap)
   - BlockingQueue
 - [Synchronization using synchronized keyword](https://www.geeksforgeeks.org/synchronization-in-java/)
 - [Implementing mutex in Java](https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java) 
