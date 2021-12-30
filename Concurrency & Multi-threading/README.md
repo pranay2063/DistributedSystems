@@ -27,6 +27,8 @@ Concurrency in Java
 - Thread class and runnable interface (for multi-threading)
 - AtomicInteger
 - [Volatile keyword](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+  - ThreadLocal, Volatile, None of the two 
+  - [Example](https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java)
 - Concurrent data structures 
   - [HashMap vs HashTable vs ConcurrentHashMap](https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap)
   - BlockingQueue
