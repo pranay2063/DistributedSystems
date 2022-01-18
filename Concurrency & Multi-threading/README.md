@@ -64,3 +64,6 @@ Leetcode issue analysis
 - [Locking solution](https://leetcode.com/problems/print-foobar-alternately/discuss/1600113/Java-ReentrantLock-%2B-Condition-%2B-Volatile)
 - [IllegalMonitorStateException](https://stackoverflow.com/questions/7126550/java-wait-and-notify-illegalmonitorstateexception)
 - [Synchronization on large number of threads](https://leetcode.com/problems/building-h2o/)
+
+Questions
+- https://leetcode.com/discuss/interview-question/1125380/rubrik-system-coding-interview-question
