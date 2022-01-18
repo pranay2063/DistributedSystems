@@ -52,6 +52,7 @@ Concurrency in Java
   - [Reentrancy](https://en.wikipedia.org/wiki/Reentrancy_(computing))
   - [Cases](https://stackoverflow.com/questions/13983753/under-what-conditions-can-a-thread-enter-a-lock-monitor-region-more-than-once)
 - [How to make a thread sleep](https://stackoverflow.com/questions/9587673/thread-sleep-vs-timeunit-seconds-sleep)
+- [Thread Scheduling](https://stackoverflow.com/questions/24649842/scheduleatfixedrate-vs-schedulewithfixeddelay)
 
 [Problems in concurrency and critical section](https://www.geeksforgeeks.org/synchronization-in-java/)
 - Deadlock
