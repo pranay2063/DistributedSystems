@@ -13,6 +13,7 @@ Java GC docs
 
 Default Garbage Collector in JVM currently - G1 (Garbage First)
 - https://docs.oracle.com/javase/9/gctuning/garbage-first-garbage-collector.htm#JSGCT-GUID-ED3AB6D3-FD9B-4447-9EDF-983ED2F7A573
+- https://www.oracle.com/technical-resources/articles/java/g1gc.html
 
 
 How to debug, analyze GC issues and do GC tuning - 
