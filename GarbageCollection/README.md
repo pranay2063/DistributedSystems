@@ -32,3 +32,6 @@ GC Glossary
 
 Todo
 Read G1 again and document relevant points
+
+Additional articles - 
+1. https://confluence.atlassian.com/doc/garbage-collector-performance-issues-200707997.html 
