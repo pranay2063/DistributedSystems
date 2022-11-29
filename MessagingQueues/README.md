@@ -10,6 +10,9 @@ Log based messaging queues - Kafka
 
 Articles
  * https://aws.amazon.com/msk/what-is-kafka/
+
+RabbitMQ vs Kafka
+ * [Smart broker vs Dump broker](https://stackoverflow.com/questions/45910795/smart-broker-vs-dumb-broker-kafka-and-rabbitmq)
   
 
 
