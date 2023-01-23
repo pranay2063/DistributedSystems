@@ -1,8 +1,6 @@
 HTTP vs HTTPS
 
-How does HTTPS work?
-
-TLS versions, Ciphers
+How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
 
 
 Authentication - OIDC, SAML
