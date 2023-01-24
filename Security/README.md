@@ -15,3 +15,6 @@ https://oauth.net/articles/authentication/
 
 https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
 
+
+Basic use case - An application can use gmail to sign in (login) a user 
+
