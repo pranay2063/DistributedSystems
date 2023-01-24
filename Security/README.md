@@ -15,6 +15,8 @@ https://oauth.net/articles/authentication/
 
 https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
 
+https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
+
 
 Basic use case - An application can use gmail to sign in (login) a user 
 
