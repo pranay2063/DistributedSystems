@@ -3,7 +3,9 @@ HTTP vs HTTPS
 How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
 
 Keystore vs Truststore - 
+
 https://stackoverflow.com/questions/318441/truststore-and-keystore-definitions
+
 https://www.baeldung.com/java-keystore-truststore-difference
 
 
