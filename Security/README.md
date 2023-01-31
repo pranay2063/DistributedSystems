@@ -4,9 +4,9 @@ How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
 
 Keystore vs Truststore - 
 
-https://stackoverflow.com/questions/318441/truststore-and-keystore-definitions
+  https://stackoverflow.com/questions/318441/truststore-and-keystore-definitions
 
-https://www.baeldung.com/java-keystore-truststore-difference
+  https://www.baeldung.com/java-keystore-truststore-difference
 
 
 Authentication - OIDC, SAML
