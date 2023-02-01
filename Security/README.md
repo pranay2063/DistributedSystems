@@ -6,6 +6,7 @@ How does HTTPS work? - TLS versions, Handshake, Cryptography, Ciphers
 - [How does HTTPS works](https://www.thesslstore.com/blog/how-does-https-work)
 - [Asymmetric and symmetric cryptography in HTTPS](https://stackoverflow.com/questions/37791013/https-uses-asymmetric-or-symmetric-encryption)
 - Cipher suite - Authentication, Encryption, MAC 
+- [Certificate chaining](https://support.dnsimple.com/articles/what-is-ssl-certificate-chain/)
 
 Keystore vs Truststore 
 
