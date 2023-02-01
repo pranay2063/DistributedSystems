@@ -1,6 +1,7 @@
 HTTP vs HTTPS
 
 How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
+- Asymmetric and symmetric cryptography in HTTPS - https://stackoverflow.com/questions/37791013/https-uses-asymmetric-or-symmetric-encryption
 
 Keystore vs Truststore - 
 
