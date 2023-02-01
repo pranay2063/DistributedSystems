@@ -6,7 +6,7 @@ How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
 - [How does HTTPS works](https://www.thesslstore.com/blog/how-does-https-work)
 - [Asymmetric and symmetric cryptography in HTTPS](https://stackoverflow.com/questions/37791013/https-uses-asymmetric-or-symmetric-encryption)
 
-Keystore vs Truststore - 
+Keystore vs Truststore 
 
 - https://stackoverflow.com/questions/318441/truststore-and-keystore-definitions
 
