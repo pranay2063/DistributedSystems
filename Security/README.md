@@ -1,6 +1,8 @@
 HTTP vs HTTPS
 
 How does HTTPS work? - Handshake, Cryptography, TLS versions, Ciphers
+- [Brief overview of HTTPS](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+- [HTTPS and CA](https://www.youtube.com/watch?v=T4Df5_cojAs) 
 - [How does HTTPS works](https://www.thesslstore.com/blog/how-does-https-work)
 - [Asymmetric and symmetric cryptography in HTTPS](https://stackoverflow.com/questions/37791013/https-uses-asymmetric-or-symmetric-encryption)
 
