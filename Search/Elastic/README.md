@@ -17,7 +17,6 @@
     Segment - Each lucene index is divided into smaller units called segments
     Concepts - Sharding, Replication
     Motivation behind sharding - Data in an index may excced the harware limit of a server (Horizontal Scaling)  
-    [Nodes in ES cluster](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
 
 *Introduction*
   1. *https://www.quora.com/How-does-Elasticsearch-work*
@@ -30,6 +29,7 @@
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
   2. *https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87*
+  3. [Nodes in ES cluster](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
   
 *Index in elasticsearch*
   1. *https://stackoverflow.com/questions/15025876/what-is-an-index-in-elasticsearch*
