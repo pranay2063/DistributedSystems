@@ -1,6 +1,3 @@
-Inverted Index - Stores documents (id) corresponding to a search key
-
-[Nodes in ES cluster](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
 
 *Full-text search*
   1. *https://en.wikipedia.org/wiki/Full-text_search*
@@ -20,6 +17,7 @@ Inverted Index - Stores documents (id) corresponding to a search key
     Segment - Each lucene index is divided into smaller units called segments
     Concepts - Sharding, Replication
     Motivation behind sharding - Data in an index may excced the harware limit of a server (Horizontal Scaling)  
+    [Nodes in ES cluster](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
 
 *Introduction*
   1. *https://www.quora.com/How-does-Elasticsearch-work*
