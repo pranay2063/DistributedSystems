@@ -31,6 +31,10 @@ https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-co
 
 OAuth grant types - https://oauth.net/2/grant-types/
 
+Types of tokens - ID token, access token and refresh token
+
+Access token vs Refresh token - https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
+
 
 Basic use case - An application can use gmail to sign in (login) a user 
 
