@@ -33,6 +33,8 @@ OAuth grant types - https://oauth.net/2/grant-types/
 
 Types of tokens - ID token, access token and refresh token
 
+ID token vs Access token - https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
+
 Access token vs Refresh token - https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
 
 
