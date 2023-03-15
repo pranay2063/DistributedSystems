@@ -37,6 +37,7 @@ ID token vs Access token - https://developer.okta.com/docs/guides/validate-acces
 
 Access token vs Refresh token - https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
 
+OIDC uses OAuth2
 
 Basic use case - An application can use gmail to sign in (login) a user 
 
