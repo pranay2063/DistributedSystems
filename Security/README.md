@@ -30,13 +30,13 @@ https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authenticati
 
 https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
 
-OAuth grant types - https://oauth.net/2/grant-types/
+[OAuth grant types](https://oauth.net/2/grant-types/)
 
 Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token, access token and refresh token
 
-ID token vs Access token - https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
+[ID token vs Access token](https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/)
 
-Access token vs Refresh token - https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
+[Access token vs Refresh token](https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security)
 
 OIDC uses OAuth2
 
