@@ -7,6 +7,7 @@ How does HTTPS work? - TLS versions, Handshake, Cryptography, Ciphers
 - [Asymmetric and symmetric cryptography in HTTPS](https://stackoverflow.com/questions/37791013/https-uses-asymmetric-or-symmetric-encryption)
 - Cipher suite - Authentication, Encryption, MAC 
 - [Certificate chaining](https://support.dnsimple.com/articles/what-is-ssl-certificate-chain/)
+- [Port 443 vs 8443](https://www.dcgears.com/blog/what-is-the-difference-between-https-port-443-and-port-8443#:~:text=The%20key%20difference%20between%20HTTPS,between%20web%20browsers%20and%20servers)
 
 Keystore vs Truststore 
 
