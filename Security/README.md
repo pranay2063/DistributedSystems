@@ -38,6 +38,8 @@ Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token
 
 [Access token vs Refresh token](https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security)
 
+Token format - Opaque, JWT
+
 OIDC uses OAuth2
 
 Basic use case - An application can use gmail to sign in (login) a user 
