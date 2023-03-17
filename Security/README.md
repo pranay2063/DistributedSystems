@@ -42,7 +42,7 @@ Token format - Opaque, JWT
 
 OIDC uses OAuth2
 
-OIDC - ID token,[scopes](https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes), claims
+OIDC - ID token, [scopes](https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes), claims
 
 [API token vs Access token](https://docs.vmware.com/en/VMware-Cloud-services/services/Using-VMware-Cloud-Services/GUID-1EEC504F-CFE5-4030-8DCB-1201CECF8B45.html#:~:text=The%20difference%20is%20that%20API,service%20involved%20in%20the%20interaction)
 
