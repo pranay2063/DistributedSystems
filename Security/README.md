@@ -32,7 +32,7 @@ https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-co
 
 [OAuth grant types](https://oauth.net/2/grant-types/)
 
-Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token, access token and refresh token
+Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token, access token and refresh token (optional)
 
 [ID token vs Access token](https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/)
 
