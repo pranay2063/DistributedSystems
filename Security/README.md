@@ -42,5 +42,9 @@ Token format - Opaque, JWT
 
 OIDC uses OAuth2
 
+Session
+
+Cookies - [Samesite attribute](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
+
 Basic use case - An application can use gmail to sign in (login) a user 
 
