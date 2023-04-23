@@ -54,3 +54,6 @@ Basic use case - An application can use gmail to sign in (login) a user
 
 https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 
+
+Firewall vs Proxy
+
