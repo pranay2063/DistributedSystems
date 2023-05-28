@@ -1,5 +1,5 @@
 
-MapReduce
+MapReduce - Map, Group, Reduce
 
 Hadoop
 
