@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authenticati
 
 https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
 
-[OAuth grant types](https://oauth.net/2/grant-types/)
+[OAuth grant types](https://oauth.net/2/grant-types/), [Application grant types](https://auth0.com/docs/get-started/applications/application-grant-types)
 
 [Client credentials vs Implicit workflow](https://stackoverflow.com/questions/16321455/what-is-the-difference-between-the-oauth-authorization-code-and-implicit-workflo)
 
