@@ -39,6 +39,8 @@ Session
 
 Cookies - [Samesite attribute](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
 
+Federated Identity, SSO
+
 Basic use case - An application can use gmail to sign in (login) a user 
 
 https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
