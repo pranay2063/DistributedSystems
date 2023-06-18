@@ -23,7 +23,7 @@ Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token
 
 [ID token vs Access token](https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/), [ID token vs Access token](https://auth0.com/blog/id-token-access-token-what-is-the-difference/), [Access token vs Refresh token](https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security)
 
-Access and Refresh tokens are not stored in browser
+Access and refresh tokens are not stored in browser
 https://medium.com/smallcase-engineering/web-security-access-token-in-url-79366a2bcb49 
 
 [ID token vs userInfo endpoint](https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion)
