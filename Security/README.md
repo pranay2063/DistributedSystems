@@ -35,6 +35,8 @@ OIDC - ID token, [scopes](https://auth0.com/docs/get-started/apis/scopes/openid-
 
 [Grant types](https://auth0.com/docs/get-started/applications/application-grant-types)
 
+[State](https://auth0.com/docs/secure/attack-protection/state-parameters)
+
 Session
 
 Cookies - [Samesite attribute](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
