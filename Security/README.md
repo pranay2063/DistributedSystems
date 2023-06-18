@@ -26,6 +26,8 @@ Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token
 Access and refresh tokens are not stored in browser
 https://medium.com/smallcase-engineering/web-security-access-token-in-url-79366a2bcb49 
 
+Access token is self validating and has a very short expiration time
+
 [ID token vs userInfo endpoint](https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion)
 
 Token format - Opaque, JWT
