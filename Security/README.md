@@ -22,6 +22,7 @@ https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-co
 Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token, access token and refresh token (optional)
 
 [ID token vs Access token](https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/), [ID token vs Access token](https://auth0.com/blog/id-token-access-token-what-is-the-difference/), [Access token vs Refresh token](https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security)
+[ID token vs userInfo endpoint](https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion)
 
 Token format - Opaque, JWT
 
