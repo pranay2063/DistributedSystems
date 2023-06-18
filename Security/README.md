@@ -17,6 +17,8 @@ https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-co
 
 [Client credentials vs Implicit workflow](https://stackoverflow.com/questions/16321455/what-is-the-difference-between-the-oauth-authorization-code-and-implicit-workflo)
 
+[PKCE with authorization Code](https://christianlydemann.com/implicit-flow-vs-code-flow-with-pkce/)
+
 Types of [tokens](https://auth0.com/docs/secure/tokens/access-tokens) - ID token, access token and refresh token (optional)
 
 [ID token vs Access token](https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/), [ID token vs Access token](https://auth0.com/blog/id-token-access-token-what-is-the-difference/), [Access token vs Refresh token](https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security)
