@@ -18,6 +18,13 @@
 
     OAuth scope is set as openid for OIDC
 
+    Java pac4j
+    https://www.pac4j.org/docs/main-concepts-and-components.html
+    https://www.pac4j.org/docs/index.html
+    https://www.pac4j.org/gettingstarted.html
+    https://www.pac4j.org/docs/clients/openid-connect.html
+    
+
 **Authorization**
 
     Authorization is about whether a user or client can access a resource
