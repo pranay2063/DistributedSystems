@@ -4,7 +4,7 @@
     Authentication is about who the user is or validation of user identity
     Federated Identity, SSO
     SSO is the ability of users to sign in to multiple apps with the same set of credentials
-    Federation is an extension of SSO where sign on can be done for apps belonging to different organizations 
+    Federation is an extension of SSO where sign in can be done for apps belonging to different organizations 
     Authentication mechanisms - multi-factor, username and password, seamless
     
     Protocols - OIDC, SAML
