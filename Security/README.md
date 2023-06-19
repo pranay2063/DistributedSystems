@@ -1,16 +1,21 @@
 
 **Authentication** 
 
+    Authentication is about who the user is
+    Federated Identity, SSO
+    
     Protocols - OIDC, SAML
 
     OIDC uses OAuth2
     https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc 
-    [https://openid.net/connect/](https://openid.net/developers/how-connect-works/)
+    https://openid.net/developers/how-connect-works/
     https://oauth.net/articles/authentication/
 
     Tokens - ID token, Access token, Refresh token
     ID token vs userInfo endpoint
     https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion
+
+    OAuth scope is set as openid for OIDC
 
 **Authorization**
 
@@ -24,7 +29,9 @@
     PKCE with authorization Code
     https://christianlydemann.com/implicit-flow-vs-code-flow-with-pkce/
 
-    scopes
+    scope
+    scope returns claims
+    scope is set as openid for OIDC
     https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes
 
     State
@@ -34,9 +41,7 @@
 
 
 
-https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
 
-https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
 
 **Tokens**
 
@@ -63,24 +68,32 @@ https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-co
     https://docs.vmware.com/en/VMware-Cloud-services/services/Using-VMware-Cloud-Services/GUID-1EEC504F-CFE5-4030-8DCB-1201CECF8B45.html#:~:text=The%20difference%20is%20that%20API,service%20involved%20in%20the%20interaction
 
 
+**Related Information**
+
+        Session
+        Cookies 
+        Samesite attribute
+        https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
+        
+        https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
+        https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
+        
+        https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
+
+        Firewall vs Proxy
+
+        Basic use case - An application can use gmail to sign in (login) a user 
 
 
 
-OIDC - ID token, , claims
 
 
 
 
-Session
-
-Cookies - [Samesite attribute](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
-
-Federated Identity, SSO
-
-Basic use case - An application can use gmail to sign in (login) a user 
-
-https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 
 
-Firewall vs Proxy
+
+
+
+
 
