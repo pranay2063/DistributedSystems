@@ -3,6 +3,7 @@
 
     Authentication is about who the user is
     Federated Identity, SSO
+    Authentication mechanisms - multi-factor, username and password, seamless
     
     Protocols - OIDC, SAML
 
