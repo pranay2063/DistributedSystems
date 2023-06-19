@@ -6,6 +6,7 @@
     SSO is the ability of users to sign in to multiple apps with the same set of credentials
     Federation is an extension of SSO where sign in can be done for apps belonging to different organizations 
     Authentication mechanisms - multi-factor, username and password, seamless
+    Browser authentication, API authentication 
     
     Protocols - OIDC, SAML
 
