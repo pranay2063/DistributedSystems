@@ -30,9 +30,9 @@
     PKCE with authorization Code
     https://christianlydemann.com/implicit-flow-vs-code-flow-with-pkce/
 
-    scope
-    scope returns claims
-    scope is set as openid for OIDC
+    Scope
+    Scope returns claims
+    Scope is set as openid for OIDC
     https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes
 
     State
