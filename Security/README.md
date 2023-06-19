@@ -79,7 +79,13 @@
         
         https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 
+        Identity provider 
+        Okta, PingFederate, Azure Active Directory etc
+
         Firewall vs Proxy
+        Firewall allows/filters packets in the network
+        Proxy routes incoming/outgoing traffic to an organization
+        Forward proxy and Reverse proxy
 
         Basic use case - An application can use gmail to sign in (login) a user 
 
