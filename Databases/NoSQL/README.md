@@ -1,7 +1,7 @@
 **List of NoSQL DBs**
   
-  MongoDB
+    MongoDB
   
-  Cassandra
+    Cassandra
   
-  ScyllaDB
+    ScyllaDB
