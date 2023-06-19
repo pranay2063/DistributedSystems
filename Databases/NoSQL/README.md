@@ -1,7 +1,5 @@
-**
+** **
 
   MongoDB
   Cassandra
   ScyllaDB
-  
-**
