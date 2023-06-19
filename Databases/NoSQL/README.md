@@ -1,4 +1,4 @@
-** List of NoSQL DBs **
+**List of NoSQL DBs**
 
   MongoDB
   Cassandra
