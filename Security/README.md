@@ -84,6 +84,7 @@
         Cookies 
         Samesite attribute
         https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
+        HttpOnly attribute
         
         https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
         https://developer.okta.com/blog/2019/01/23/nobody-cares-about-oauth-or-openid-connect#why-openid-connect-exists
