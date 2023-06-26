@@ -71,6 +71,8 @@
     They are kept at server side
     https://medium.com/smallcase-engineering/web-security-access-token-in-url-79366a2bcb49 
     Access token is self validating and has a very short expiration time
+    Access token is used to secure API 
+    https://auth0.com/blog/why-should-use-accesstokens-to-secure-an-api/
 
     API token
     API token vs Access token
