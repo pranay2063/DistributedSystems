@@ -72,6 +72,17 @@
     Thread Scheduling
         https://stackoverflow.com/questions/24649842/scheduleatfixedrate-vs-schedulewithfixeddelay
 
+**ExecutorService and CompletableFuture**   
+
+    If we create a thread manually, we will have to maintain it
+    Java provides ExecutorService which allows allocating threads to a pool and maintains their lifecycle
+    If there is a need of synchronization among threads, ExecutorService can be a better option
+    TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor
+    
+    If there is a need to work on the results of the execution threads, completableFuture can be a better option
+    Future - an object which is used to store a future result (Response of completableFuture)
+    Callback - a function that is a passed as an argument to a method and is executed after the method is done executed
+
 **Problems in concurrency and critical section** 
 
     https://www.geeksforgeeks.org/synchronization-in-java/
