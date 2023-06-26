@@ -11,21 +11,21 @@
     Protocols - OIDC, SAML
 
     OIDC uses OAuth2
-    https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc 
-    https://openid.net/developers/how-connect-works/
-    https://oauth.net/articles/authentication/
+        https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc 
+        https://openid.net/developers/how-connect-works/
+        https://oauth.net/articles/authentication/
 
     Tokens - ID token, Access token, Refresh token
     ID token vs userInfo endpoint
-    https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion
+        https://stackoverflow.com/questions/46212029/id-token-or-userinfo-for-identity-assertion
 
     OAuth scope is set as openid for OIDC
 
     Java pac4j
-    https://www.pac4j.org/docs/main-concepts-and-components.html
-    https://www.pac4j.org/docs/index.html
-    https://www.pac4j.org/gettingstarted.html
-    https://www.pac4j.org/docs/clients/openid-connect.html
+        https://www.pac4j.org/docs/main-concepts-and-components.html
+        https://www.pac4j.org/docs/index.html
+        https://www.pac4j.org/gettingstarted.html
+        https://www.pac4j.org/docs/clients/openid-connect.html
     
 
 **Authorization**
@@ -33,23 +33,23 @@
     Authorization is about whether a user or client can access a resource
     OAuth, OAuth2
     OAuth grant types
-    https://oauth.net/2/grant-types/
-    https://auth0.com/docs/get-started/applications/application-grant-types
+        https://oauth.net/2/grant-types/
+        https://auth0.com/docs/get-started/applications/application-grant-types
 
     Client credentials vs Implicit workflow
-    https://stackoverflow.com/questions/16321455/what-is-the-difference-between-the-oauth-authorization-code-and-implicit-workflo
+        https://stackoverflow.com/questions/16321455/what-is-the-difference-between-the-oauth-authorization-code-and-implicit-workflo
     PKCE with authorization Code
-    https://christianlydemann.com/implicit-flow-vs-code-flow-with-pkce/
+        https://christianlydemann.com/implicit-flow-vs-code-flow-with-pkce/
 
     Scope
-    Scope returns claims
-    Scope is set as openid for OIDC
-    https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes
+        Scope returns claims
+        Scope is set as openid for OIDC
+        https://auth0.com/docs/get-started/apis/scopes/openid-connect-scopes
 
     State
-    https://auth0.com/docs/secure/attack-protection/state-parameters
+        https://auth0.com/docs/secure/attack-protection/state-parameters
     State vs PKCE
-    https://stackoverflow.com/questions/71349839/code-challange-vs-state-parameter-in-oauth-what-is-the-difference
+        https://stackoverflow.com/questions/71349839/code-challange-vs-state-parameter-in-oauth-what-is-the-difference
 
 
 **Tokens**
@@ -61,11 +61,11 @@
     https://auth0.com/docs/secure/tokens/access-tokens
     
     ID token vs Access token
-    https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
-    https://auth0.com/blog/id-token-access-token-what-is-the-difference/
+        https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
+        https://auth0.com/blog/id-token-access-token-what-is-the-difference/
 
     Access token vs Refresh token
-    https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
+        https://stackoverflow.com/questions/34931052/how-does-a-short-lived-access-token-add-security
 
     Access and refresh tokens are not stored in browser
     They are kept at server side
@@ -85,7 +85,7 @@
         
         Cookies 
         Samesite attribute
-        https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
+            https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite
         HttpOnly attribute
         
         https://stackoverflow.com/questions/33702826/oauth-authorization-vs-authentication
@@ -94,12 +94,12 @@
         https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
 
         Identity provider 
-        Okta, PingFederate, Azure Active Directory etc
+            Okta, PingFederate, Azure Active Directory etc
 
         Firewall vs Proxy
-        Firewall allows/filters packets in the network
-        Proxy routes incoming/outgoing traffic to an organization
-        Forward proxy and Reverse proxy
+            Firewall allows/filters packets in the network
+            Proxy routes incoming/outgoing traffic to an organization
+            Forward proxy and Reverse proxy
 
         Basic use case - An application can use gmail to sign in (login) a user 
 
