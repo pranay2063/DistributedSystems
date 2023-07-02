@@ -76,7 +76,7 @@
 
     If we create a thread manually, we will have to maintain it
     Java provides ExecutorService which allows allocating threads to a pool and maintains their lifecycle
-    If there is a need of synchronization among threads, ExecutorService can be a better option
+    If there is a need of synchronization among threads, ExecutorService can be a good option
     TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor
     
     If there is a need to work on the results of the execution threads, completableFuture can be a better option
