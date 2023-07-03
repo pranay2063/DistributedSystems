@@ -78,6 +78,11 @@
     API token vs Access token
     https://shorturl.at/dqrQT
 
+**API Flow**
+
+        https://cloud.google.com/blog/products/api-management/5-ways-to-implement-rest-api-authentication   
+        Client credentials grant type is used by API clienst to fetch access token
+        https://oauth.net/2/grant-types/client-credentials/
 
 **Related Information**
 
