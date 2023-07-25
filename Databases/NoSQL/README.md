@@ -1,7 +1,7 @@
 **NoSQL DBs**
   
     MongoDB
-    AuroraDB
+    DynamoDB
     Cassandra
     ScyllaDB
   
