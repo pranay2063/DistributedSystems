@@ -7,3 +7,5 @@ Scaling of SQL databases?
     PostgreSQL
     Crunchy data - High Availability (HA) Postgres 
     https://www.crunchydata.com/
+
+    Amazon AuroraDB
