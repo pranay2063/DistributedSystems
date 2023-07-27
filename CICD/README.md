@@ -1,6 +1,12 @@
-**Build management tool**
+**Build management**
 
-    Maven
-    Gradle
-    Bazel (mostly for monorepos)
+    Tools
+        Maven
+        Gradle
+        Bazel (mostly for monorepos)
+    Renovate bot 
+        Automated dependency updates
+        https://github.com/renovatebot/renovate
+
+    
 
