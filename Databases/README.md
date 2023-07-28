@@ -6,6 +6,11 @@
     Indexes (Faster read)
     Horizontal partitioning (Sharding) - using consistent hashing
     Master-slave architecture (in case of machine/database server failure)
+    Optimistic Locking / Optimistic Concurrency Control (OCC) 
+        https://en.wikipedia.org/wiki/Optimistic_concurrency_control
+
+    In memory database
+        https://aws.amazon.com/nosql/in-memory/
     
 *Databases - SQL vs NoSQL*
 
@@ -19,7 +24,8 @@
         Column-family based - Cassandra
         Graph DB - Neo4j
     
-*In-memory database* - *https://aws.amazon.com/nosql/in-memory/*
+    AWS databases 
+        https://aws.amazon.com/products/databases/
 
-*Optimistic Locking / Optimistic Concurrency Control (OCC) - https://en.wikipedia.org/wiki/Optimistic_concurrency_control*
+
 
