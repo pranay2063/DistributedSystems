@@ -15,6 +15,7 @@
         Network ACL, Security Groups
     
     Storage
+        https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html 
         EC2 instance store - ephemereal
         Elastic block store (EBS)
         File storage
