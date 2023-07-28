@@ -1,12 +1,13 @@
 
 **AWS Components**
 
-    EC2 instances, Data Centres (DC), Availability Zones (AZ), Regions
-    IAM - users, groups, roles
-    EC2 - VM
-    Containers, ECS
-    Docker, Kubernetes, EKS
-    Serverless, AWS Lambda
+    Compute
+        EC2 instances, Data Centres (DC), Availability Zones (AZ), Regions
+        IAM - users, groups, roles
+        EC2 - VM
+        Containers, ECS
+        Docker, Kubernetes, EKS
+        Serverless, AWS Lambda
 
     Networking
         VPC
