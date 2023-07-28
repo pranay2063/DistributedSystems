@@ -8,24 +8,24 @@
     ECS, EKS
 
     Networking
-      VPC
-      Subnet
-      Route table
-      Gateway
-      Network ACL, Security Groups
-
-   Storage
-     EC2 instance store - ephemereal
-     Elastic block store (EBS)
-     File storage
-     Object storage - S3
-     S3 storage classes/tiers
-       https://aws.amazon.com/s3/storage-classes/
+        VPC
+        Subnet
+        Route table
+        Gateway
+        Network ACL, Security Groups
+    
+    Storage
+        EC2 instance store - ephemereal
+        Elastic block store (EBS)
+        File storage
+        Object storage - S3
+        S3 storage classes/tiers
+            https://aws.amazon.com/s3/storage-classes/
      
     Databases
-      Relational - RDS (Relational Database Service)
-      Amazon AuroraDB via RDS
-      NoSQL - DynamoDB
+        Relational - RDS (Relational Database Service)
+        Amazon AuroraDB via RDS
+        NoSQL - DynamoDB
     
     
 
