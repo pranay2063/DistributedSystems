@@ -20,6 +20,7 @@
         File storage
         Object storage - S3
         S3 storage classes/tiers
+            Buckets
             https://aws.amazon.com/s3/storage-classes/
      
     Databases
