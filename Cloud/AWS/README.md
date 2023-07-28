@@ -24,6 +24,7 @@
             https://aws.amazon.com/s3/storage-classes/
      
     Databases
+        https://aws.amazon.com/products/databases/
         Relational - RDS (Relational Database Service)
         Amazon AuroraDB via RDS
         NoSQL - DynamoDB
