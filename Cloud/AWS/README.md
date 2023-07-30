@@ -16,6 +16,7 @@
         Gateway
         Network ACL, Security Groups
         https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/Zq1Wb/reading-2-5-networking-on-aws
+        Elastic Load Balancer (ELB)
     
     Storage
         https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html 
