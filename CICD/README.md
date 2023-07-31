@@ -8,5 +8,11 @@
         Automated dependency updates
         https://github.com/renovatebot/renovate
 
+**Deployment**
+
+    Container
+    Docker
+    Kubernetes
+
     
 
