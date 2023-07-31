@@ -36,6 +36,19 @@
         Relational - RDS (Relational Database Service)
         Amazon AuroraDB via RDS
         NoSQL - DynamoDB
+
+    Monitoring
+        CloudWatch - metrics, alarms, logs (via log agent), dashboards
+
+    EC2 auto-scaling
+           Launch template, scaling policies, target groups (of instances)
+           Based on cloudwatch metrics/alarms
+           Done via ELB
+           Uses VPC, Subnets, security groups
+        
+        
+        
+        
     
     
 
