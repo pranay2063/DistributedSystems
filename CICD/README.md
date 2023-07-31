@@ -3,8 +3,10 @@
     Tools
         Maven
         Gradle
-            https://docs.gradle.org/current/userguide/jvm_test_suite_plugin.html
-            https://baeldung.com/gradle-test-vs-check
+            Test suites 
+                https://docs.gradle.org/current/userguide/jvm_test_suite_plugin.html
+            Gradle test vs check
+                https://baeldung.com/gradle-test-vs-check
         Bazel (mostly for monorepos)
     Renovate bot 
         Automated dependency updates
