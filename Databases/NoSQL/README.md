@@ -1,8 +1,8 @@
 **NoSQL DBs**
   
     MongoDB
-    DynamoDB
-    DocumentDB
+    AWS DynamoDB
+    AWS DocumentDB
     Cassandra
     ScyllaDB
   
