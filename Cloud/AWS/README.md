@@ -14,7 +14,8 @@
         Subnet
         Route table
         Gateway
-        Network ACL, Security Groups
+        Network ACL, Security Groups (SGs)
+            Network ACL is stateless while SG is stateful 
         https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/Zq1Wb/reading-2-5-networking-on-aws
         Elastic Load Balancer (ELB)
             ALB
