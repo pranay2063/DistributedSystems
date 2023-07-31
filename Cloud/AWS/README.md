@@ -2,7 +2,7 @@
 **AWS Components**
 
     Compute
-        EC2 instances, Data Centres (DC), Availability Zones (AZ), Regions
+        EC2 instances, Data Centres (DC), Availability Zones (AZ), Regions, Edge locations
         IAM - users, groups, roles
         EC2 - VM
         Containers, ECS
