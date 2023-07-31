@@ -12,6 +12,7 @@
 
     Networking
         VPC
+            https://stackoverflow.com/questions/45164355/what-is-vpc-subnet-in-aws
         Subnet
         Route table
         Gateway
