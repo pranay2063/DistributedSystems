@@ -2,6 +2,7 @@
   
     MongoDB
     DynamoDB
+    DocumentDB
     Cassandra
     ScyllaDB
   
