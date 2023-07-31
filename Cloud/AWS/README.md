@@ -49,7 +49,7 @@
            Uses VPC, Subnets, security groups
         
     FAQs
-    IAM group vs Security group - https://stackoverflow.com/questions/32164706/ec2-security-group-vs-iam-group
+        IAM group vs Security group - https://stackoverflow.com/questions/32164706/ec2-security-group-vs-iam-group
         
         
     
