@@ -39,6 +39,7 @@
 
     Monitoring
         CloudWatch - metrics, alarms, logs (via log agent), dashboards
+        https://www.coursera.org/learn/aws-cloud-technical-essentials/supplement/emkn9/reading-4-2-introduction-to-amazon-cloudwatch
 
     EC2 auto-scaling
            Launch template, scaling policies, target groups (of instances)
