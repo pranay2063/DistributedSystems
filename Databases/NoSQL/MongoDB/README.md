@@ -43,6 +43,10 @@
     Analyze query performance and execution stages - https://docs.mongodb.com/manual/tutorial/analyze-query-plan/
     Database profiling - https://docs.mongodb.com/manual/tutorial/manage-the-database-profiler/
 
+    Projection
+        Limit the response data from mongo query
+        https://www.mongodb.com/docs/manual/tutorial/project-fields-from-query-results/
+
 **Data**
 
     Mongo and BSON - https://www.mongodb.com/json-and-bson
