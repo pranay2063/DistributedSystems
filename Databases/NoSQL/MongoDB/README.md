@@ -25,7 +25,7 @@
 **Replication**
   
     Single leader replication 
-    Replica set - A cluster of MongoDB servers that implements replication and automated failover.
+    Replica set - A cluster of MongoDB servers that implements replication and automated failover
   
 **Sharding**
 
