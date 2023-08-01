@@ -1,6 +1,8 @@
 
 **Fundamentals**
 
+    Collection, Database, Cluster
+    
     Replication - writes are controlled by write concern property, reads can be configured via read preferences property
     Sharding
     Quorum - Majority of nodes must be available for cluster to operate
