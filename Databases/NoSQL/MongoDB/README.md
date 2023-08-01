@@ -1,7 +1,7 @@
 
 **Fundamentals**
 
-  Replication - (controlled by write concern)
+    Replication - (controlled by write concern)
   Sharding
   Quorum
   Causal consistency - Read your own writes (read happens on primary with performance overhead, default in mongo)
