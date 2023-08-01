@@ -1,7 +1,7 @@
 
 **Fundamentals**
 
-    Replication - controlled by write concern (altenatively read preferences property for reads)
+    Replication - writes are controlled by write concern property, reads can be configured via read preferences property
     Sharding
     Quorum - Majority of nodes must be available for cluster to operate
     Consensus - Agreement among all the nodes for Primary/leader election (achieved via a voting mechanism)
