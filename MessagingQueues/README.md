@@ -1,8 +1,8 @@
 Publisher-Subscriber Model
  * Publisher
  * Subscriber
- * Topic
- * Queue
+ * Topic (broadcast)
+ * Queue (point to point)
  * Message
  * Broker
 
