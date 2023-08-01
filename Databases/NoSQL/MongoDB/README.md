@@ -3,7 +3,8 @@
 
     Replication - (controlled by write concern)
     Sharding
-    Quorum
+    Quorum - Majority of nodes must be available for cluster to operate
+    Consensus - Agreement among all the nodes for Primary/leader election (achieved via a voting mechanism)
     Causal consistency - Read your own writes (read happens on primary with performance overhead, default in mongo)
     Eventual consistency - Read happens from secondaries sacrificing consistency
     Journaling
