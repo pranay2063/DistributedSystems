@@ -4,6 +4,7 @@ Publisher-Subscriber Model
  * Topic
  * Queue
  * Message
+ * Broker
 
 Normal queue based messaging queues - RabbitMQ
  * [RabbitMQ for beginners](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
