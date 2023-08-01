@@ -7,6 +7,9 @@ SLI, SLO, SLA -
 Agent (Sysdig/Nagios)<br/>
 Montioring (Prometheus)<br/>
 Alerting (AlertManager / PagerDuty)<br/>
+Tracing (Jaeger)<br/>
+
+OpenTelemetry - One stop library for traces, metrics and alerts
 
 Crucial part of monitoring - Dashboards (Grafana)
 
