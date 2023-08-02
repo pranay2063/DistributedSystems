@@ -77,11 +77,13 @@
     If we create a thread manually, we will have to maintain it
     Java provides ExecutorService which allows allocating threads to a pool and maintains their lifecycle
     ExecutorService accepts a runnable or a callable and returns a future for submit() call
+    Task execution is async in ExecutorService
     ExecutorService provides control on the pool of threads
     TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor
     
     If there is a need to chain the results of the execution threads, CompletableFuture can be a better option
     CompletableFuture returns a future
+    Task execution is async in CompletableFuture
     CompletableFuture use threads from common ForkJoinPool but it can accept custom executors as well
 
     https://stackoverflow.com/questions/52303472/executorservice-vs-completablefuture
