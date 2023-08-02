@@ -76,12 +76,21 @@
 
     If we create a thread manually, we will have to maintain it
     Java provides ExecutorService which allows allocating threads to a pool and maintains their lifecycle
-    If there is a need of synchronization among threads, ExecutorService can be a good option
+    ExecutorService accepts a runnable or a callable and returns a future for submit() call
+    ExecutorService provides control on the pool of threads
     TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor
     
-    If there is a need to work on the results of the execution threads, completableFuture can be a better option
+    If there is a need to chain the results of the execution threads, CompletableFuture can be a better option
+    CompletableFuture returns a future
+    CompletableFuture use threads from common ForkJoinPool but it can accept custom executors as well
+
+    https://stackoverflow.com/questions/52303472/executorservice-vs-completablefuture
+    
     Future - an object which is used to store a future result (Response of completableFuture)
+    Runnable - A task which does not return anything
+    Callable - A task that returns a response
     Callback - a function that is a passed as an argument to a method and is executed after the method is done executed
+    
 
 **Problems in concurrency and critical section** 
 
