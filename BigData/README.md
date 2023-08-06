@@ -3,6 +3,6 @@ MapReduce - Map, Group, Reduce
 
 Hadoop
 
-Spark
+Spark - RDD
 
 Google BigQuery
