@@ -39,6 +39,12 @@
     https://docs.mongodb.com/manual/applications/indexes/
     Indices should be added programmatically rather than manually - This will reduce chances of human mistakes 
 
+**Concurrency control**
+
+    Reader-writer locks, Intent locks at global, database and collection level
+    Concurrency at document level is achieved using wiredTiger engine which uses optimistic concurrency
+    https://www.mongodb.com/docs/manual/faq/concurrency/
+
 **Query execution and performance**
 
     Query plans used by query optimizer - https://docs.mongodb.com/v4.0/core/query-plans/
