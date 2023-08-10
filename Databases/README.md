@@ -12,12 +12,16 @@
         Types - Optimistic locking and pessimistic locking
         Optimistic Locking / Optimistic Concurrency Control (OCC) 
             Transactions run without acquiring locks 
+            Uses intents instead of locks
             Verifies whether the resource has been updated by other workers before committing transaction
             Rollbacks if the resource has already been committed by some other worker
             https://en.wikipedia.org/wiki/Optimistic_concurrency_control
             Increases throughput but does not work well in high data contention (more rollbacks)
         Pessimistic locking
             Acquires lock before running and committing the transactions
+            https://www.linkedin.com/pulse/read-committed-pessimistic-locking-distributed-sql-databases-pachot
+            Write exclusive and shared read locks
+        Understand the difference between read and write locks
         
     In memory database
         https://aws.amazon.com/nosql/in-memory/
