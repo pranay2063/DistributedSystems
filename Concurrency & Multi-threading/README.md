@@ -92,6 +92,11 @@
     Runnable - A task which does not return anything
     Callable - A task that returns a response
     Callback - a function that is a passed as an argument to a method and is executed after the method is done executed
+
+**Virtual threads in Java**
+
+    Java 21 introduces an enhancement to threads called virtual threads for high throughput concurrent applications
+    https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA
     
 
 **Problems in concurrency and critical section** 
