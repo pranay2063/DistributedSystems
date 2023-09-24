@@ -20,4 +20,6 @@ HTTP vs HTTPS
   - Use this CSR file to create a domain certificate 
   - Chain domain cerificate with root and issuing authority 
   - Upload chained certificate to the keystore
-  - Use this keystore into your web server configuration to validate HTTPS url 
+  - Use this keystore into your web server configuration to validate HTTPS url
+
+[To-do]REST vs GraphQL vs gRPC
