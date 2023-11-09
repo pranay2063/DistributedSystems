@@ -17,6 +17,7 @@
     Container
     Docker
     Kubernetes
+    Containers vs VMs - https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/
 
 **Testing**
 
