@@ -5,7 +5,7 @@
         EC2 instances, Data Centres (DC), Availability Zones (AZ), Regions, Edge locations
         IAM - users, groups, roles
         EC2 - VM
-        https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/
+        Containers vs VMs - https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/
         Containers, ECS
         Docker, Kubernetes, EKS
         Serverless, AWS Lambda
