@@ -23,6 +23,8 @@
 
     Unit tests
         Code coverage via Jacoco https://docs.gradle.org/current/userguide/jacoco_plugin.html
+    Mutation tests 
+        https://www.baeldung.com/java-mutation-testing-with-pitest
     Integrating tests
     E2e tests
     Regression tests
