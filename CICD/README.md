@@ -22,7 +22,7 @@
 **Testing**
 
     Unit tests
-        Code coverage via Jacoco https://docs.gradle.org/current/userguide/jacoco_plugin.html#sec:jacoco_dependency_management
+        Code coverage via Jacoco https://docs.gradle.org/current/userguide/jacoco_plugin.html
     Integrating tests
     E2e tests
     Regression tests
