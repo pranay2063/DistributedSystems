@@ -38,4 +38,5 @@ Webhook vs Websocket
   - https://stackoverflow.com/questions/23172760/differences-between-webhook-and-websocket
 
 [To-do]REST vs GraphQL 
+
 [To-do]REST vs gRPC
