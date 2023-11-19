@@ -15,9 +15,10 @@ HTTP vs TCP
 2. https://stackoverflow.com/questions/23157817/http-vs-tcp-ip-send-data-to-a-web-server 
 
 HTTP vs HTTPS
-1. HTTPS uses TLS/SSL for encryption of data (TLS is upgraded version of SSL). 
-2. HTTPS basically involves setting up a tunnel/connection (like that in HTTP), validating the certicates and encrypting the data during transfer  
-3. How to create HTTPS version of a URL? - 
+1. HTTPS is a layer of TLS over TCP
+2. HTTPS uses TLS/SSL for encryption of data and authentication of server (TLS is upgraded version of SSL)
+3. HTTPS basically involves setting up a tunnel/connection (like that in HTTP), validating the certicates and encrypting the data during transfer  
+4. How to create HTTPS version of a URL? - 
   - Generate a keystore (say Java keystore)
   - Create CSR (Certificate Signing Request) 
   - Use this CSR file to create a domain certificate 
@@ -25,4 +26,16 @@ HTTP vs HTTPS
   - Upload chained certificate to the keystore
   - Use this keystore into your web server configuration to validate HTTPS url
 
-[To-do]REST vs GraphQL vs gRPC
+TLS vs mTLS
+  - TLS which does client authentication as well
+  - https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/
+
+HTTP1 vs HTTP2 vs WebSockets
+  - https://www.cloudflare.com/en-gb/learning/performance/http2-vs-http1.1/
+  - https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
+
+Webhook vs Websocket
+  - https://stackoverflow.com/questions/23172760/differences-between-webhook-and-websocket
+
+[To-do]REST vs GraphQL 
+[To-do]REST vs gRPC
