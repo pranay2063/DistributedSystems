@@ -19,12 +19,12 @@ HTTP vs HTTPS
 2. HTTPS uses TLS/SSL for encryption of data and authentication of server (TLS is upgraded version of SSL)
 3. HTTPS basically involves setting up a tunnel/connection (like that in HTTP), validating the certicates and encrypting the data during transfer  
 4. How to create HTTPS version of a URL? - 
-  - Generate a keystore (say Java keystore)
-  - Create CSR (Certificate Signing Request) 
-  - Use this CSR file to create a domain certificate 
-  - Chain domain cerificate with root and issuing authority 
-  - Upload chained certificate to the keystore
-  - Use this keystore into your web server configuration to validate HTTPS url
+    - Generate a keystore (say Java keystore)
+    - Create CSR (Certificate Signing Request) 
+    - Use this CSR file to create a domain certificate 
+    - Chain domain cerificate with root and issuing authority 
+    - Upload chained certificate to the keystore
+    - Use this keystore into your web server configuration to validate HTTPS url
 
 TLS vs mTLS
 1. TLS which does client authentication as well
