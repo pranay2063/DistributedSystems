@@ -27,15 +27,15 @@ HTTP vs HTTPS
   - Use this keystore into your web server configuration to validate HTTPS url
 
 TLS vs mTLS
-  - TLS which does client authentication as well
-  - https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/
+1. TLS which does client authentication as well
+2. https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/
 
 HTTP1 vs HTTP2 vs WebSockets
-  - https://www.cloudflare.com/en-gb/learning/performance/http2-vs-http1.1/
-  - https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
+1. https://www.cloudflare.com/en-gb/learning/performance/http2-vs-http1.1/
+2. https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
 
 Webhook vs Websocket
-  - https://stackoverflow.com/questions/23172760/differences-between-webhook-and-websocket
+1. https://stackoverflow.com/questions/23172760/differences-between-webhook-and-websocket
 
 [To-do]REST vs GraphQL 
 
