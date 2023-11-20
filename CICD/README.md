@@ -13,7 +13,7 @@
                 Compile - Using dependencies during compile-time classpath and runtime classpath
                 Implementation - Using dependencies during runtime classpath
                 testImplementation - Required to compile tests
-                Compile-time (Conversion to machine code) and runtime (execution of machine code)
+                Compile-time (conversion to machine code) and runtime (execution of machine code)
         Bazel (mostly for monorepos)
         Renovate bot 
             Automated dependency updates
