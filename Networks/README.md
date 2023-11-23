@@ -39,4 +39,7 @@ Webhook vs Websocket
 
 [To-do]REST vs GraphQL 
 
-[To-do]REST vs gRPC
+REST vs gRPC
+1. https://blog.postman.com/grpc-vs-rest
+2. https://blog.restcase.com/http2-benefits-for-rest-apis/
+3. https://stackoverflow.com/questions/31692868/rest-api-with-http-2
