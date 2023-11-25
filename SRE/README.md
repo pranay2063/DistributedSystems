@@ -23,3 +23,5 @@ Types of alerting
   1. SLO Based
   2. Metric alerting
   3. Any application alerts
+
+IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
