@@ -14,10 +14,15 @@ HTTP vs TCP
 1. TCP is layer 4 and HTTP is layer 7 in OSI. HTTP uses TCP internally. 
 2. https://stackoverflow.com/questions/23157817/http-vs-tcp-ip-send-data-to-a-web-server 
 
-HTTP vs HTTPS
-1. HTTPS is a layer of TLS over TCP
-2. HTTPS uses TLS/SSL for encryption of data and authentication of server (TLS is upgraded version of SSL)
-3. HTTPS basically involves setting up a tunnel/connection (like that in HTTP), validating the certicates and encrypting the data during transfer  
+HTTPS
+1. HTTPS is a layer of TLS over TCP. HTTPS uses TLS for encryption of data and authentication of server (TLS is upgraded version of SSL).
+2. HTTPS basically involves setting up a tunnel/connection (like that in HTTP), validating the certicates and encrypting the data during transfer
+3. Resources to read
+    - https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/
+    - https://www.cloudflare.com/en-gb/learning/ssl/what-happens-in-a-tls-handshake/
+    - https://www.cloudflare.com/en-gb/learning/ssl/what-is-a-session-key/
+    - https://www.cloudflare.com/en-gb/learning/ssl/what-is-ssl/
+    - https://www.geeksforgeeks.org/difference-between-truststore-and-keystore-in-java/
 4. How to create HTTPS version of a URL? - 
     - Generate a keystore (say Java keystore)
     - Create CSR (Certificate Signing Request) 
@@ -26,7 +31,7 @@ HTTP vs HTTPS
     - Upload chained certificate to the keystore
     - Use this keystore into your web server configuration to validate HTTPS url
 
-TLS vs mTLS
+mTLS
 1. TLS which does client authentication as well
 2. https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-tls/
 
