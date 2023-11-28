@@ -1,5 +1,5 @@
 
-Different design patterns in distributed systems
+Design patterns in distributed systems 
 1. Circuit breaker
 2. Outbox pattern
     - https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html
