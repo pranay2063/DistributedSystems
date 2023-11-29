@@ -61,6 +61,7 @@
     https://auth0.com/docs/secure/tokens/access-tokens
     
     ID token vs Access token
+        https://oauth.net/id-tokens-vs-access-tokens/
         https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
         https://auth0.com/blog/id-token-access-token-what-is-the-difference/
 
