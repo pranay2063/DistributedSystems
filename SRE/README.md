@@ -24,6 +24,7 @@ Types of alerting
   3. Event based alerting
 
 IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
+
 OpenTelemetry - One stop library for traces, metrics and alerts
 
 Frameworks to expose host/service metrics (They can export metrics to a montitoring system like Prometheus)
