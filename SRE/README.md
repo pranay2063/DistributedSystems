@@ -8,10 +8,7 @@ Agent (Sysdig/Nagios)<br/>
 Montioring (Prometheus)<br/>
 Alerting (AlertManager / PagerDuty)<br/>
 Tracing (Jaeger)<br/>
-
-OpenTelemetry - One stop library for traces, metrics and alerts
-
-Crucial part of monitoring - Dashboards (Grafana)
+Dashboards - Grafana/Kibana <br />
 
 Prometheus
   1. Pull based monitoring system - https://prometheus.io/docs/introduction/overview/
@@ -27,6 +24,7 @@ Types of alerting
   3. Event based alerting
 
 IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
+OpenTelemetry - One stop library for traces, metrics and alerts
 
 Frameworks to expose host/service metrics (They can export metrics to a montitoring system like Prometheus)
   1. JMX
