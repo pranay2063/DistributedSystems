@@ -4,11 +4,12 @@ SLI, SLO, SLA -
   1. [Overview](https://sre.google/sre-book/service-level-objectives/)
   2. [Implementation](https://sre.google/workbook/implementing-slos/)
 
-Agent (Sysdig/Nagios)<br/>
-Montioring (Prometheus)<br/>
-Alerting (AlertManager / PagerDuty)<br/>
-Tracing (Jaeger)<br/>
-Dashboards - Grafana/Kibana <br />
+Observility stack 
+  1. Montioring (Prometheus)
+  2. Alerting (AlertManager / PagerDuty)
+  3. Tracing (Jaeger)
+  4. Dashboards - (Grafana / Kibana)
+  5. Agent (Sysdig)
 
 Prometheus
   1. Pull based monitoring system - https://prometheus.io/docs/introduction/overview/
@@ -23,8 +24,7 @@ Types of alerting
   2. Metric alerting
   3. Event based alerting
 
-IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
-
+IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code <br/>
 OpenTelemetry - One stop library for traces, metrics and alerts
 
 Frameworks to expose host/service metrics (They can export metrics to a montitoring system like Prometheus)
