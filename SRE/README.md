@@ -4,7 +4,7 @@ SLI, SLO, SLA -
   1. [Overview](https://sre.google/sre-book/service-level-objectives/)
   2. [Implementation](https://sre.google/workbook/implementing-slos/)
 
-Observility stack 
+Observability stack 
   1. Montioring (Prometheus)
   2. Alerting (AlertManager / PagerDuty)
   3. Tracing (Jaeger)
