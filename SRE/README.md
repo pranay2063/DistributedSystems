@@ -25,3 +25,7 @@ Types of alerting
   3. Any application alerts
 
 IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
+
+Frameworks to expose host/service metrics (They can export metrics to a montitoring system like Prometheus)
+  1. JMX
+  2. Spring boot actuator 
