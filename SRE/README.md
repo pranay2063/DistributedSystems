@@ -13,16 +13,18 @@ OpenTelemetry - One stop library for traces, metrics and alerts
 
 Crucial part of monitoring - Dashboards (Grafana)
 
-Metric - [Prometheus](https://prometheus.io/docs/concepts/metric_types/)
-  1. Counter (monotonically increasing values)
-  2. Gauge (fluctuating values)
-  3. Histogram
-  4. Summary
-
+Prometheus
+  1. Pull based monitoring system - https://prometheus.io/docs/introduction/overview/
+  2. Metrics
+    - Counter (monotonically increasing values), Gauge (fluctuating values), Histogram, Summary
+    - https://prometheus.io/docs/concepts/metric_types/
+  3. Rules
+    - Recording rules, Alerting rules
+     
 Types of alerting
   1. SLO Based
   2. Metric alerting
-  3. Any application alerts
+  3. Event based alerting
 
 IAC - https://en.wikipedia.org/wiki/Infrastructure_as_code 
 
