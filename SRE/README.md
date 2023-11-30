@@ -16,9 +16,9 @@ Crucial part of monitoring - Dashboards (Grafana)
 Prometheus
   1. Pull based monitoring system - https://prometheus.io/docs/introduction/overview/
   2. Metrics
-    - Counter (monotonically increasing values), Gauge (fluctuating values), Histogram, Summary
-    - https://prometheus.io/docs/concepts/metric_types/
-  3. Rules
+     - Counter (monotonically increasing values), Gauge (fluctuating values), Histogram, Summary
+     - https://prometheus.io/docs/concepts/metric_types/
+  4. Rules
     - Recording rules, Alerting rules
      
 Types of alerting
