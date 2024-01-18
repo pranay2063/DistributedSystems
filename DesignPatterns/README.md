@@ -6,6 +6,8 @@ Popular design patterns in distributed systems
     - Use case - Dual writes - https://thorben-janssen.com/dual-writes/
 3.  CQRS
     - https://martinfowler.com/bliki/CQRS.html
+4. Multi-reactor pattern in Vert.x
+    - https://vertx.io/docs/vertx-core/java/#_reactor_and_multi_reactor  
   
 Summary - https://learn.microsoft.com/en-us/azure/architecture/patterns/
 
