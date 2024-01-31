@@ -24,6 +24,8 @@
     Mongo queries are done via driver with a seed of cluster nodes specified in the configuration
     Driver can query an online node and any online node can return cluster configuration (details regarding leader etc)
 
+    MongoDB is ACID compliant at document level
+
 **Replication**
   
     Single leader replication 
@@ -44,6 +46,9 @@
     Reader-writer locks, Intent locks at global, database and collection level
     Concurrency at document level is achieved using wiredTiger engine which uses optimistic concurrency
     https://www.mongodb.com/docs/manual/faq/concurrency/
+
+    MongoDB is ACID compliant at document level
+    https://stackoverflow.com/questions/7149890/what-did-mongodb-not-being-acid-compliant-before-v4-really-mean
 
 **Query execution and performance**
 
