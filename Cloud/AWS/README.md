@@ -6,8 +6,9 @@
         IAM - users, groups, roles
         EC2 - VM
         Containers vs VMs - https://aws.amazon.com/compare/the-difference-between-containers-and-virtual-machines/
-        Containers, ECS
-        Docker, Kubernetes, EKS
+        Containers, Docker
+        ECS, EKS (Kubernetes)
+        AWS Fargate
         Serverless, AWS Lambda
 
     Networking
