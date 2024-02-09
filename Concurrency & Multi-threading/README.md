@@ -26,8 +26,9 @@
 **Concurrency in Java**
 
     Thread class and runnable interface (for multi-threading)
+        https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html
     AtomicInteger
-    Volatile keyword https://www.geeksforgeeks.org/volatile-keyword-in-java/  
+        Volatile keyword https://www.geeksforgeeks.org/volatile-keyword-in-java/  
     ThreadLocal, Volatile, None of the two 
     https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java
 
@@ -98,7 +99,6 @@
     Java 21 introduces an enhancement to threads called virtual threads for high throughput concurrent applications
     https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-DC4306FC-D6C1-4BCC-AECE-48C32C1A8DAA
     
-
 **Problems in concurrency and critical section** 
 
     https://www.geeksforgeeks.org/synchronization-in-java/
