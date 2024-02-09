@@ -87,6 +87,7 @@
     CompletableFuture use threads from common ForkJoinPool but it can accept custom executors as well
 
     https://stackoverflow.com/questions/52303472/executorservice-vs-completablefuture
+    https://medium.com/@anil.java.story/why-have-a-completefuture-when-we-have-an-executorservice-which-problem-did-it-solve-f1cf083f834c
     
     Future - an object which is used to store a future result (Response of completableFuture)
     Runnable - A task which does not return anything
