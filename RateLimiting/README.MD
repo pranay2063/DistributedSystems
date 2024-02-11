@@ -6,3 +6,4 @@ Types of rate-limiting algorithms - Token bucker, Leaky bukcet, Fixed window, Sl
 Resources 
 1. https://tech.groww.in/rate-limiter-and-its-algorithms-with-illustrations-564455162935
 2. https://medium.com/@avocadi/rate-limiter-sliding-window-counter-7ec08dbe21d6
+3. https://blog.bytebytego.com/p/rate-limiting-fundamentals
