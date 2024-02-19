@@ -27,4 +27,11 @@
     Popular cache systems <br>
         Redis
             https://aws.amazon.com/redis/
-        Memcached     
+        Memcached   
+
+*Resources to read*
+
+    Scaling Memcache at Facebook 
+    https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
+
+        
