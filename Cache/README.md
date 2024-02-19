@@ -2,6 +2,10 @@
 
 *Introduction*
 
+    Why? - To handle frequent or expensive queries and reduce system latency 
+    Cache vs Database 
+        Cache is not long term persistent store unlike database and stores data in memory  
+        Cache is suitable for read heavy system 
     Where to cache? - in memory or between server and database (in memory or distrubuted cache)
     Thrashing
     Types of caching strategies
