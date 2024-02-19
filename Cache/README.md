@@ -21,6 +21,8 @@
     Cache expiration blogs <br>
         https://redis.com/glossary/cache-invalidation/
         https://engineering.fb.com/2022/06/08/core-infra/cache-made-consistent/
+
+    Further, cache eviction is another important part and requires proper algorithms 
     
     Thrashing <br>
     
