@@ -17,7 +17,7 @@
     Staleness is the major issue that can happen in a cache <br>
     The basic approach to begin with is to use TTL (cache expiration) to ensure data is periodically refreshed <br>
     But there can still be staleness with cache expiration <br>
-    To handle the inconsistencies or staleness, cache expiration has to be done <br>
+    To handle the inconsistencies or staleness, cache invalidation has to be done <br>
     Cache expiration blogs <br>
         https://redis.com/glossary/cache-invalidation/
         https://engineering.fb.com/2022/06/08/core-infra/cache-made-consistent/
