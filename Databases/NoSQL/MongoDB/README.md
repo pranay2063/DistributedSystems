@@ -30,6 +30,8 @@
   
     Single leader replication 
     Replica set - A cluster of MongoDB servers that implements replication and automated failover
+    What happens when primary is down?
+        https://stackoverflow.com/questions/48611485/mongo-behaviour-once-master-is-down
   
 **Sharding**
 
