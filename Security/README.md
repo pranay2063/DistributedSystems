@@ -56,7 +56,7 @@
 
     Token format - JWT, opaque
     JWT 
-        [https://jwt.io/](https://jwt.io/introduction)
+        https://jwt.io/introduction
         Header + Payload + Signature
         Payload is not encrypted 
     Types of tokens - ID token, access token and refresh token
