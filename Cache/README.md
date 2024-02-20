@@ -30,6 +30,7 @@
         Redis
             https://aws.amazon.com/redis/
         Memcached   
+        CDN
 
 *Resources to read*
 
