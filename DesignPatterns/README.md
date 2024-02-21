@@ -1,4 +1,6 @@
 
+Summary - https://learn.microsoft.com/en-us/azure/architecture/patterns/
+
 Popular design patterns in distributed systems 
 1. Circuit breaker
    - https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
@@ -16,7 +18,9 @@ Popular design patterns in distributed systems
     - Use case - Dual writes - https://thorben-janssen.com/dual-writes/
 4.  CQRS
     - https://martinfowler.com/bliki/CQRS.html
+5. Backend For FrontEnd (BFF)
+    - https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
   
-Summary - https://learn.microsoft.com/en-us/azure/architecture/patterns/
+
 
 
