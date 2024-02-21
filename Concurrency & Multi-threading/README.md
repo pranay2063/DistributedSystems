@@ -79,7 +79,8 @@
     ExecutorService accepts a runnable or a callable and returns a future for submit() call
     Task execution is async in ExecutorService
     ExecutorService provides control on the pool of threads
-    TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor
+    TaskExecutor, TaskScheduler, ScheduledThreadPoolExecutor, FixedThreadPool, CachedThreadPool
+    https://stackoverflow.com/questions/17957382/fixedthreadpool-vs-cachedthreadpool-the-lesser-of-two-evils
     
     If there is a need to chain the results of the execution threads, CompletableFuture can be a better option
     CompletableFuture returns a future
