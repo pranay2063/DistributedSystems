@@ -7,5 +7,6 @@ Queue - classic (FIFO), priority queue, dead letter queue <br>
 Consumer <br>
 Acknowledgement <br>
 Prefetch count <br><br>
+Channel https://stackoverflow.com/questions/18418936/rabbitmq-and-relationship-between-channel-and-connection <br>
 
 Multiple consumers can read from a queue<br>
