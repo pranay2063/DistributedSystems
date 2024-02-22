@@ -39,8 +39,9 @@ HTTP1 vs HTTP2 vs WebSockets
 1. https://www.cloudflare.com/en-gb/learning/performance/http2-vs-http1.1/
 2. https://stackoverflow.com/questions/28582935/does-http-2-make-websockets-obsolete
 
-Webhook vs Websocket
+Webhook vs Websocket vs Server Side Events
 1. https://stackoverflow.com/questions/23172760/differences-between-webhook-and-websocket
+2. https://stackoverflow.com/questions/53342419/what-is-the-difference-between-server-side-event-and-web-hook-reverse-api
 
 [To-do]REST vs GraphQL 
 
