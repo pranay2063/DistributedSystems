@@ -11,3 +11,5 @@ API components - rate-limiting, authentication, authorization, pagination (in or
 Load testing is done to understand the scale of an API <br>
 Load testing tools - Apache JMeter, Postman <br>
 
+API documentation is a key thing and swagger (OpenAPI) https://swagger.io/specification/ is the most popular framework for writing API docs <br>
+
