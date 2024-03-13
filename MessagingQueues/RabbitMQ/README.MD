@@ -12,6 +12,6 @@ Channel https://stackoverflow.com/questions/18418936/rabbitmq-and-relationship-b
 Multiple consumers can read from a queue<br>
 
 https://stackoverflow.com/questions/37993897/how-rabbit-mq-consumers-work <br>
-RabbitMQ push API working 
-  https://stackoverflow.com/questions/46584198/amqp-rabbitmq-push-api-how-works
-  https://www.rabbitmq.com/client-libraries/java-api-guide#consuming
+RabbitMQ push API working <br>
+  https://stackoverflow.com/questions/46584198/amqp-rabbitmq-push-api-how-works <br>
+  https://www.rabbitmq.com/client-libraries/java-api-guide#consuming <br>
