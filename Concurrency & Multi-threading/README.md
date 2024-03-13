@@ -33,14 +33,15 @@
         https://stackoverflow.com/questions/19744508/volatile-vs-atomic
     ThreadLocal, Volatile, None of the two 
     https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java
-
+    Wait, notify, notifyAll
+        https://www.baeldung.com/java-wait-notify
+        https://stackoverflow.com/questions/37026/java-notify-vs-notifyall-all-over-again
     Concurrent data structures 
         HashMap vs HashTable vs ConcurrentHashMap
         https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap
-
-    BlockingQueue
+        BlockingQueue
+    
     Synchronization using synchronized keyword
-        https://www.geeksforgeeks.org/synchronization-in-java/
     Implementing mutex in Java
         https://stackoverflow.com/questions/5291041/is-there-a-mutex-in-java
   
