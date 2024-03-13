@@ -28,7 +28,9 @@
     Thread class and runnable interface (for multi-threading)
         https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html
     AtomicInteger
-        Volatile keyword https://www.geeksforgeeks.org/volatile-keyword-in-java/  
+    Volatile 
+        https://www.geeksforgeeks.org/volatile-keyword-in-java/  
+        https://stackoverflow.com/questions/19744508/volatile-vs-atomic
     ThreadLocal, Volatile, None of the two 
     https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java
 
