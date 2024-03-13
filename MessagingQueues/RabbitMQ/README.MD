@@ -10,3 +10,5 @@ Prefetch count <br>
 Channel https://stackoverflow.com/questions/18418936/rabbitmq-and-relationship-between-channel-and-connection <br><br>
 
 Multiple consumers can read from a queue<br>
+
+https://stackoverflow.com/questions/37993897/how-rabbit-mq-consumers-work
