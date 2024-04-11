@@ -5,19 +5,11 @@ A container is a unit of software that encapsulates everything needed to build, 
 
 Containers lower deployment time and costs, improve utilization, automate processes, and support next-gen applications (microservices). Major container vendors include Docker, Podman, LXC, and Vagrant. 
 
-Docker is an open platform used for developing, shipping, and running applications as containers. 
+Docker is an open platform used for developing, shipping, and running applications as containers. Docker containers are not a good fit for applications based on monolithic architecture or applications that require high performance or security. 
 
-Docker containers are not a good fit for applications based on monolithic architecture or applications that require high performance or security. 
+Docker architecture consists of the Docker client, the Docker host, and the container registry. The Docker host contains objects such as the Dockerfiles, images, containers, networks, storage volumes, and other objects, such as plugins and add-ons. 
 
-Docker architecture consists of the Docker client, the Docker host, and the container registry. 
-
-The Docker host contains objects such as the Dockerfiles, images, containers, networks, storage volumes, and other objects, such as plugins and add-ons. 
-
-Docker uses networks to isolate container communications. 
-
-Docker uses volumes and binds mounts to persist data even after a container stops running. 
-
-Plugins, such as storage plugins, provide the ability to connect to external storage platforms. 
+Docker uses networks to isolate container communications. Docker uses volumes and binds mounts to persist data even after a container stops running. Plugins, such as storage plugins, provide the ability to connect to external storage platforms. 
 
 Cheat Sheet: Docker CLI
 
@@ -40,3 +32,18 @@ docker tag	Creates a tag for a target image that refers to a source image. <br>
 docker –version	Displays the version of the Docker CLI. <br>
 exit	Closes the terminal session. <br>
 ls	Lists the contents of this directory to see the artifacts. <br>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| curl  | Pings the application  |
+| docker build  | Builds an image from a Dockerfile  |
+| docker build . -t | Builds the image and tags the image id |
+| docker CLI | Start the Docker command line interface |
+| docker container rm | Removes a container |
+| docker images | Lists the images |
+| docker ps | Lists the containers |
+| docker ps -a | Lists the containers that ran and exited successfully |
+| docker pull | Pulls the latest image or repository from a registry |
+| docker push | Pushes an image or a repository to a registry | 
+| docker run | Runs a command in a new container |
+| docker run -p	| Runs the container by publishing the ports |
