@@ -38,7 +38,6 @@ Glossary: Container Basics
 
 | Term	| Definition |
 | ------------- | ------------- |
-| Agile	| is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer issues. |
 | Client-server architecture	| is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients. |
 | A container	| powered by the containerization engine, is a standard unit of software that encapsulates the application code, runtime, system tools, system libraries, and settings necessary for programmers to efficiently build, ship and run applications.
 | Container Registry	| Used for the storage and distribution of named container images. While many features can be built on top of a registry, its most basic functions are to store images and retrieve them. | 
@@ -64,7 +63,6 @@ Glossary: Container Basics
 | Namespace	| A Linux namespace is a Linux kernel feature that isolates and virtualizes system resources. Processes which are restricted to a namespace can only interact with resources or processes that are part of the same namespace. Namespaces are an important part of Docker’s isolation model. Namespaces exist for each type of resource, including networking, storage, processes, hostname control and others. | 
 | Operating System Virtualization	| OS-level virtualization is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances, called containers, zones, virtual private servers, partitions, virtual environments, virtual kernels, or jails. | 
 | Private Registry	| Restricts access to images so that only authorized users can view and use them. | 
-| REST API	| A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services. | 
 | Registry | is a hosted service containing repositories of images which responds to the Registry API. | 
 | Repository	| is a set of Docker images. A repository can be shared by pushing it to a registry server. The different images in the repository can be labelled using tags. | 
 | Server Virtualization	| Server virtualization is the process of dividing a physical server into multiple unique and isolated virtual servers by means of a software application. Each virtual server can run its own operating systems independently. | 
