@@ -37,6 +37,7 @@ Cheat Sheet: Docker CLI
 Glossary: Container Basics
 
 | Term	| Definition |
+| ------------- | ------------- |
 | Agile	| is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer issues. |
 | Client-server architecture	| is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients. |
 | A container	| powered by the containerization engine, is a standard unit of software that encapsulates the application code, runtime, system tools, system libraries, and settings necessary for programmers to efficiently build, ship and run applications.
