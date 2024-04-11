@@ -65,6 +65,5 @@ Glossary: Container Basics
 | Private Registry	| restricts access to images so that only authorized users can view and use them. | 
 | Registry | is a hosted service containing repositories of images which responds to the Registry API. | 
 | Repository	| is a set of Docker images. A repository can be shared by pushing it to a registry server. The different images in the repository can be labelled using tags. | 
-| Server Virtualization	| Server virtualization is the process of dividing a physical server into multiple unique and isolated virtual servers by means of a software application. Each virtual server can run its own operating systems independently. | 
-| Serverless	| is a cloud-native development model that allows developers to build and run applications without having to manage servers. | 
+| Server Virtualization	| Server virtualization is the process of dividing a physical server into multiple unique and isolated virtual servers by means of a software application. Each virtual server can run its own operating systems independently. |  
 | Tag	| A tag is a label applied to a Docker image in a repository. Tags are how various images in a repository are distinguished from each other. | 
