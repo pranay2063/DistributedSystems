@@ -20,6 +20,9 @@ Popular design patterns in distributed systems
     - https://martinfowler.com/bliki/CQRS.html
 5. Backend For FrontEnd (BFF)
     - https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+6. Bulkhead pattern
+    - https://learn.microsoft.com/en-us/azure/architecture/patterns/bulkhead
+    - Used in kubernetes   
   
 
 
